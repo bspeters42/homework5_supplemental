@@ -224,7 +224,7 @@ header{
   body {background-image: none;}
 
   .pricing {align-items: top;} 
-  .gallery #gallery {display: none;}
+  .gallery, #gallery {display: none;}
   
 
 }
