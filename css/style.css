@@ -72,7 +72,7 @@ footer{
   margin-right: auto;
   position: relative;
   animation-name: logo_wiggle;
-  animation-duration: 3s;
+  animation-duration: 15s;
 
 }
 
@@ -247,5 +247,14 @@ header{
     header{
       background-attachment: initial;
     }
+    #logo{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      position: relative;
+      animation-name: none;
+      animation-duration: none;
+    }
+    
   }
   
